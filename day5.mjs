@@ -39,7 +39,6 @@ for (let index = 0; index < seedNums.length; index += 2) {
             seed: parseInt(startVal) + modifier,
         };
         almanac.push(data);
-        console.log(++counter);
     }
 }
 console.debug(almanac);
