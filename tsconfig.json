@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "module": "NodeNext",
+      "target": "ESNext",
+      "lib": ["ESNext", "DOM"],
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "sourceMap": true,
+      "types": ["node"]
+    },
+    "files": [
+        "data.ts",
+        "7-1.ts"
+    ]
+  }
